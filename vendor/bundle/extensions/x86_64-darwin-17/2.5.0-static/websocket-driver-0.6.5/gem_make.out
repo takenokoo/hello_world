@@ -1,0 +1,15 @@
+current directory: /Users/takeshi/Desktop/webapp/development/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+/Users/takeshi/.rbenv/versions/2.5.1/bin/ruby -r ./siteconf20180628-57758-105n0rb.rb extconf.rb
+creating Makefile
+
+current directory: /Users/takeshi/Desktop/webapp/development/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" clean
+
+current directory: /Users/takeshi/Desktop/webapp/development/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR="
+compiling websocket_mask.c
+linking shared-object websocket_mask.bundle
+
+current directory: /Users/takeshi/Desktop/webapp/development/hello_app/vendor/bundle/gems/websocket-driver-0.6.5/ext/websocket-driver
+make "DESTDIR=" install
+/usr/bin/install -c -m 0755 websocket_mask.bundle ./.gem.20180628-57758-13hhka8
